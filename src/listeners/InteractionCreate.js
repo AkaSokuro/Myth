@@ -15,6 +15,7 @@ module.exports = {
 		try {
 			await command.execute(interaction);
 		} catch (err) {
+			console.log(`Command error: ${command.name}`)
 			console.error(err);
 		}
 	},
