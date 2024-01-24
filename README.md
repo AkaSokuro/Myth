@@ -1,4 +1,1 @@
-# Myth
-It's just my Discord bot.. idk..
-
-(*not even finish yet*)
+Based of my old Discord bot.
